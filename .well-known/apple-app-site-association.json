@@ -1,0 +1,103 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2513
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fmodern\fcharset0 Courier;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+{\*\expandedcolortbl;;\cssrgb\c0\c0\c0;}
+\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\deftab720
+\pard\pardeftab720\partightenfactor0
+
+\f0\fs26 \cf0 \expnd0\expndtw0\kerning0
+\{\
+    "applinks": \{\
+        "apps": [],\
+        "details": [\
+            \{\
+                "appID": "PGB36VEQ8D.ru.yandex.blue.market",\
+                "paths": [\
+                    "/",\
+                    "product/*",\
+                    "bundle/*",\
+                    "catalog/*",\
+                    "catalog/root",\
+                    "external/browser",\
+                    "browser",\
+                    "search",\
+                    "deals",\
+                    "morda",\
+                    "bonus",\
+                    "wishlist",\
+                    "orders/*",\
+                    "my/cart",\
+                    "my/profile",\
+                    "my/order/*",\
+                    "my/order/*/map",\
+                    "my/orders",\
+                    "my/orders/*",\
+                    "my/settings",\
+                    "my/referee",\
+                    "internal/catalogWithVendor/*",\
+                    "special/bonusy",\
+                    "tracking/*"\
+                ]\
+            \},\
+            \{\
+                "appID": "477EAT77S3.ru.yandex.blue.market",\
+                "paths": [\
+                    "/",\
+                    "product/*",\
+                    "bundle/*",\
+                    "catalog/*",\
+                    "catalog/root",\
+                    "external/browser",\
+                    "browser",\
+                    "search",\
+                    "deals",\
+                    "morda",\
+                    "bonus",\
+                    "wishlist",\
+                    "orders/*",\
+                    "my/cart",\
+                    "my/profile",\
+                    "my/order/*",\
+                    "my/order/*/map",\
+                    "my/orders",\
+                    "my/orders/*",\
+                    "my/settings",\
+                    "my/referee",\
+                    "internal/catalogWithVendor/*",\
+                    "special/bonusy",\
+                    "tracking/*"\
+                ]\
+            \},\
+            \{\
+                "appID": "EK7Z26L6D4.ru.yandex.blue.market",\
+                "paths": [\
+                    "/",\
+                    "product/*",\
+                    "bundle/*",\
+                    "catalog/*",\
+                    "catalog/root",\
+                    "external/browser",\
+                    "browser",\
+                    "search",\
+                    "deals",\
+                    "morda",\
+                    "bonus",\
+                    "wishlist",\
+                    "orders/*",\
+                    "my/cart",\
+                    "my/profile",\
+                    "my/order/*",\
+                    "my/order/*/map",\
+                    "my/orders",\
+                    "my/orders/*",\
+                    "my/settings",\
+                    "my/referee",\
+                    "internal/catalogWithVendor/*",\
+                    "special/bonusy",\
+                    "tracking/*"\
+                ]\
+            \}\
+        ]\
+    \}\
+\}}
